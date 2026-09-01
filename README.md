@@ -37,7 +37,7 @@ Please follow these steps to start the hands-on exercise. To allow you to try Sm
 <img width="429" height="415" alt="image" src="https://github.com/user-attachments/assets/4d41ab61-2048-48ea-972d-fc6ad55601e2" />
 
 
-3. **Download the hands-on tutorial document:** https://github.com/cjbernal/SAP-Connect-Day-for-UX-Newtown-Square/blob/main/AI-assisted-task-automation-tutorial_2602_Sep2026.pdf   
+3. **Download the hands-on tutorial document:** https://github.com/cjbernal/SAP-Connect-Day-for-UX-Newtown-Square/blob/main/AI-assisted-task-automation-tutorial_2602_Sep2026v1.pdf   
   **Note:** You must download it, otherwise you may have trouble copy/pasting the given text.   
 5. Open the document. **Begin the tutorial from page 7 (Step 3 - Create a new Smart Helper)**. The preconfigured system allows you to skip the previous steps. Enjoy the exercise! 
 
