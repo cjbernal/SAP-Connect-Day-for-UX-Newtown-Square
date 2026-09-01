@@ -25,6 +25,7 @@ If you would like to check that your sales order is configured correctly before 
 
 <img width="3456" height="1648" alt="image" src="https://github.com/user-attachments/assets/384a33d4-320c-49c0-9160-6fb1f35bf239" />   
 
+
 4. Your sales order is ready to be updated using Smart Helpers! 
 
 
