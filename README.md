@@ -14,17 +14,16 @@ This hands-on exercise will give you the opportunity to create your own Smart He
 
 If you would like to check that your sales order is configured correctly before you start (This is not required):   
 1. Navigate to the _Manage Sales Order Version 2_ app
-   <img width="695" height="211" alt="image" src="https://github.com/user-attachments/assets/52b8f042-f77a-49c0-a631-bdb2a307fc4d" />
+<img width="695" height="211" alt="image" src="https://github.com/user-attachments/assets/52b8f042-f77a-49c0-a631-bdb2a307fc4d" />
 
-   <img width="1732" height="824" alt="image" src="https://github.com/user-attachments/assets/a588cdc3-3a30-4fd4-9768-dce4aaafc67d" />
+<img width="1732" height="824" alt="image" src="https://github.com/user-attachments/assets/a588cdc3-3a30-4fd4-9768-dce4aaafc67d" />
 
 2. Search for your assigned sales order (See bold text above). In this case, 580 is used:
-   <img width="3456" height="1648" alt="image" src="https://github.com/user-attachments/assets/7bced7f3-cd8a-46b0-9210-0e83edbd25bc" />
+<img width="3456" height="1648" alt="image" src="https://github.com/user-attachments/assets/7bced7f3-cd8a-46b0-9210-0e83edbd25bc" />
 
 3. Open the sales order and verify that the **Overall Block Status** in the header shows as _Blocked_ and the **Requested Delivery Date** in the Basic Data section is before today's date.
 
-<img width="3456" height="1648" alt="image" src="https://github.com/user-attachments/assets/384a33d4-320c-49c0-9160-6fb1f35bf239" />   
-
+<img width="3456" height="1648" alt="image" src="https://github.com/user-attachments/assets/384a33d4-320c-49c0-9160-6fb1f35bf239" />     
 
 4. Your sales order is ready to be updated using Smart Helpers! 
 
@@ -35,8 +34,11 @@ Please follow these steps to start the hands-on exercise. To allow you to try Sm
 
 1. Open up the system link provided above and log on. You will see your user's My Home page. 
 2. Click the arrow next to the **Smart Helpers** section to open the menu. Click _Manage Smart Helpers_. This will navigate you to the application where you can create, update, and delete Smart Helpers.
-3. Download the hands-on tutorial document:
-4. **Begin the tutorial from page 7 (Step 3 - Create a new Smart Helper)**. The preconfigured system allows you to skip the previous steps. Enjoy the exercise! 
+<img width="429" height="415" alt="image" src="https://github.com/user-attachments/assets/4d41ab61-2048-48ea-972d-fc6ad55601e2" />
+
+
+3. **Download the hands-on tutorial document:** https://github.com/cjbernal/SAP-Connect-Day-for-UX-Newtown-Square/blob/main/AI-assisted-task-automation-tutorial_2602_Aug2026.pdf
+4. Open the document. **Begin the tutorial from page 7 (Step 3 - Create a new Smart Helper)**. The preconfigured system allows you to skip the previous steps. Enjoy the exercise! 
 
 ### If You Need Help
 Please reach out to any of the hosts at any time. We want to get you up and running as fast as possible so that you have time to try out Smart Helpers. 
