@@ -31,11 +31,12 @@ If you would like to check that your sales order is configured correctly before 
 
 
 ### Doing the Exercise
-Please following these steps to try out Smart Helpers. To allow you to try Smart Helpers within the given time, a Smart Helper has been set up for you so that you can easily generate your execution plan and try out the automation. **Note: Since a demo system as been set up for you, a few steps may differ from the provided document. Please follow the procedure below to start the exercise.**
+Please follow these steps to start the hands-on exercise. To allow you to try Smart Helpers within the given time, the system has been set up for you with preconfigured business objects. **Note: Since a demo system as been set up for you, a few steps may differ from the provided document. Please follow the procedure below to start the exercise.**
 
 1. Open up the system link provided above and log on. You will see your user's My Home page. 
 2. Click the arrow next to the **Smart Helpers** section to open the menu. Click _Manage Smart Helpers_. This will navigate you to the application where you can create, update, and delete Smart Helpers.
-3. To save time, we have provided a partially created Smart Helper for you. 
+3. Download the hands-on tutorial document:
+4. **Begin the tutorial from page 7 (Step 3 - Create a new Smart Helper)**. The preconfigured system allows you to skip the previous steps. Enjoy the exercise! 
 
 ### If You Need Help
 Please reach out to any of the hosts at any time. We want to get you up and running as fast as possible so that you have time to try out Smart Helpers. 
