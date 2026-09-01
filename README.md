@@ -12,7 +12,7 @@ System link: https://my313815.s4hana.ondemand.com/ui#Shell-home
 ### Before You Start the Exercise
 This hands-on exercise will give you the opportunity to create your own Smart Helper to update a sales order. We have prepared sales orders for you so that you do not have to set one up. **Please use the sales order that corresponds to your assigned number: 5<##>.**  For example, if you have card 80: sales order 580.   
 
-If you would like to check that your sales order is configured correctly before you start:   
+If you would like to check that your sales order is configured correctly before you start (This is not required):   
 1. Navigate to the _Manage Sales Order Version 2_ app
    <img width="695" height="211" alt="image" src="https://github.com/user-attachments/assets/52b8f042-f77a-49c0-a631-bdb2a307fc4d" />
 
@@ -34,7 +34,8 @@ If you would like to check that your sales order is configured correctly before 
 Please following these steps to try out Smart Helpers. To allow you to try Smart Helpers within the given time, a Smart Helper has been set up for you so that you can easily generate your execution plan and try out the automation. **Note: Since a demo system as been set up for you, a few steps may differ from the provided document. Please follow the procedure below to start the exercise.**
 
 1. Open up the system link provided above and log on. You will see your user's My Home page. 
-2. 
+2. Click the arrow next to the **Smart Helpers** section to open the menu. Click _Manage Smart Helpers_. This will navigate you to the application where you can create, update, and delete Smart Helpers.
+3. To save time, we have provided a partially created Smart Helper for you. 
 
 ### If You Need Help
 Please reach out to any of the hosts at any time. We want to get you up and running as fast as possible so that you have time to try out Smart Helpers. 
